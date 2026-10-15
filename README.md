@@ -1,1 +1,1 @@
-# personal_browser_extension
+# My Browser Extension
